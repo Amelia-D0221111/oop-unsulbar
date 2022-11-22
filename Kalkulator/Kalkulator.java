@@ -1,4 +1,8 @@
-
+/*
+Nama: Amelia
+NIM: D0221111
+Kelas: Informatika H
+ */
 package kalkulator;
 
 import java.util.Scanner;

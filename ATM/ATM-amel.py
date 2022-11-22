@@ -1,3 +1,6 @@
+# Nama: Amelia
+# NIM: D0221111
+# Kelas: Informatika H
 pin = 2805
 saldo = 1000000
 
